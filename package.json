@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://abdullahhatem02.github.io/react-portfolio/",
+  "homepage": "https://abdullahhatem02.github.io",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
